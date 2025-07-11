@@ -1,4 +1,4 @@
-<h1>Sorteador de números</h1>
+<h1>Alugames</h1>
 
 <h2>Mais um projeto que eu criei como um desafio na aula de logica de programação</h2>
 
